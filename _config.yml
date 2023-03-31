@@ -5,6 +5,6 @@ plugins:
 title: Quizzinator9000 Page
 description: Home Page for the Quizzinator9000 app Project
 
-gitlab:
+github:
   zip_url: https://code.cs.umanitoba.ca/comp3350-winter2023/a01-g02-quizzinator9000
   
