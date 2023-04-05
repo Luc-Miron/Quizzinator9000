@@ -40,27 +40,34 @@ The Quizzinator9000 is intended to be used by anyone looking to broaden their kn
 
 ## Functionality
 
-The Quizzinator9000 has three main areas of functionality: 
+The Quizzinator9000 has three main areas of functionality:
 
-* Selecting a Quiz
-* Taking the Quiz
-* Reviewing your Quiz result history
+* [Selecting a Quiz](#selecting-a-quiz)
+* [Taking the Quiz](#taking-a-quiz)
+* [Reviewing your Quiz result history](#reviewing-your-results)
 
-### Selecting a Quiz
+#### Selecting a Quiz
 
-### Taking a Quiz
+>From the Quiz Selection view, a user can move through the Subjects, related topics and sub-topics(Quizzes) available on the app and select the Quiz they would like to take. From that selection a quiz will be generated from the question bank by randomly selecting from available questions pertaining to their selected sub-topic.
 
-### Reviewing your Results
+#### Taking a Quiz
+
+>From the Take Quiz view, a user can move through the questions in their quiz and select their answer from the presented options. If the timer expires, their quiz is over and any unanswered questions are marked as incorrect. Once completed, the user can navigate back through their questinos to review any errors they have made.
+
+#### Reviewing your Results
+
+>From the Quiz History view, a user can review their history of average quiz scores by Subject, topic or sub-topic. They can also see all their quiz scores for a selected sub-topic.
 
 ## Retrospective
 
+Insert retrospective commentary here
 
+## Contributors/team members
 
-## Contributors/team members, including a description of any specific special development skills that each team member gained.
+include a description of any specific special development skills that each team member gained
 
-Troy Thomas\
-
-Luc Miron\
-Gabriel Zacci Coloma\
-Heping Dong\
-Rizaldi Wijaya\
+* Troy Thomas
+* Luc Miron
+* Gabriel Zacci Coloma
+* Heping Dong
+* Rizaldi Wijaya
