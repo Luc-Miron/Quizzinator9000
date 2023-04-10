@@ -101,18 +101,18 @@ Initially, we had a lot of features and user stories for our project. We had a l
 
 ## Contributors/team members
 
-### Troy Thomas
+#### Troy Thomas
 
 > "Things I learned from this project: How to use Git, how to use Android Studio, how to make activities & layouts for android applications, how to structure a project well, and how to work better with a team and coordinate tasks."
 
-### Luc Miron
+#### Luc Miron
 
 > "I learned how to use the android studio development platform and the tools in GitLab. I improved my teamwork skills and was able to work with many different types of people."
 
-### Gabriel Zacci Coloma
+#### Gabriel Zacci Coloma
 
 > "I learned that working in groups and making projects requires a ton of teamwork and picking each other up where we fall short on. It is important to implement the high priority tasks and features early in order to weed out the mistakes that would otherwise be too late when left for last. I definitely can say that I enjoy working in groups and I improved in working as a group after iteration 2."
 
-### Heping Dong
+#### Heping Dong
 
-### Rizaldi Wijaya
+#### Rizaldi Wijaya
