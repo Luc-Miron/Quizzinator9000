@@ -91,13 +91,15 @@ We have not been as successful with getting all our features/user stories/issues
 
 To improve this, we will try to get each of our assigned tasks done well before the deadline so that even if we have problems with any of them, we will have lots of time to fix them. Since part of the reason we didn’t get everything completed in previous iterations was because we ran into problems right before the deadline. If we are able to get all our features/user stores/issues implemented before the deadline for this iteration, then we will consider that a success.
 
-#### The database
+#### Prioritization
 
-A problem we encountered while making this project was the database implementation. It was so completely new to us that we decided to leave it for last. In hindsight, we should have definitely started with doing the higher priority developer tasks like making the database, because we did not have it finished by iteration 2. We all realized that something will go wrong when working with new tools. We had a lot of syntax issues in our database script and missing a dependency injection in our gradle build. If we did this earlier, we could have asked our instructor earlier to solve issue and hopefully finish by the iteration deadline. In the future, we would definitely be more interactive with the instructors with regards to questions and problems that arise during our project.
+A problem we encountered while making this project was the database implementation. It was so completely new to us that we decided to leave it for last. I would definitely start with doing the higher priority developer tasks like making the database because we did not have it finished by iteration 2. I realized that something will go wrong when working with something that is new to what you are used to. We had a lot of syntax issues in our database script and missing a dependency injection in our gradle build. If we did this earlier, we could have asked our instructor earlier to solve issue faster and hopefully finish by the iteration deadline. I would definitely be more interactive with the instructors with regards to questions and problems that arise during our project.
+
+#### Planning
+
+Initially, we had a lot of features and user stories for our project. We had a lot of grand ideas that didn’t really feel realistic, and we now think that some features did not need to be added in a quiz app. We used to have a notes feature and an account feature but in the end, it didn’t feel like it was necessary to be able to complete our application. In the end, we had a lot of compromises to our features, but we also added some different features to make up for the one we could not implement.
 
 ## Contributors/team members
-
-include a description of any specific special development skills that each team member gained
 
 ### Troy Thomas
 
