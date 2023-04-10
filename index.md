@@ -48,19 +48,19 @@ The Quizzinator9000 has three main areas of functionality:
 
 #### Selecting a Quiz
 
-![starting a quiz](https://code.cs.umanitoba.ca/comp3350-winter2023/a01-g02-quizzinator9000/-/blob/main/media/StartingQuizVideo.gif)
+![starting a quiz](media/StartingQuizVideo.gif)
 
 >From the Quiz Selection view, a user can move through the Subjects, related topics and sub-topics(Quizzes) available on the app and select the Quiz they would like to take. From that selection a quiz will be generated from the question bank by randomly selecting from available questions pertaining to their selected sub-topic.
 
 #### Taking a Quiz
 
-![taking a quiz](https://code.cs.umanitoba.ca/comp3350-winter2023/a01-g02-quizzinator9000/-/blob/main/media/TakingQuizVideo.gif)
+![taking a quiz](media/TakingQuizVideo.gif)
 
 >From the Take Quiz view, a user can move through the questions in their quiz and select their answer from the presented options. If the timer expires, their quiz is over and any unanswered questions are marked as incorrect. Once completed, the user can navigate back through their questinos to review any errors they have made.
 
 #### Reviewing your Results
 
-![view scores](https://code.cs.umanitoba.ca/comp3350-winter2023/a01-g02-quizzinator9000/-/blob/main/media/ViewScoresVideo.gif)
+![view scores](media/ViewScoresVideo.gif)
 
 >From the Quiz History view, a user can review their history of average quiz scores by Subject, topic or sub-topic. They can also see all their quiz scores for a selected sub-topic.
 
