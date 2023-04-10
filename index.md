@@ -67,9 +67,7 @@ The Quizzinator9000 has three main areas of functionality:
 
 >From the Quiz History view, a user can review their history of average quiz scores by Subject, topic or sub-topic. They can also see all their quiz scores for a selected sub-topic.
 
-## Retrospective
-
-### Project Postmortem
+## Project Postmortem
 
 #### How did the project change from your initial (iteration 0) vision or stories, or did it work out as predicted?
 
