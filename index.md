@@ -48,20 +48,20 @@ The Quizzinator9000 has three main areas of functionality:
 
 ### Selecting a Quiz
 
-![starting a quiz](media/StartingQuizVideo.gif)
+![starting a quiz](media/starting_quiz.mp4)
 
 >From the Quiz Selection view, a user can move through the Subjects, related topics and sub-topics(Quizzes) available on the app and select the Quiz they would like to take. From that selection a quiz will be generated from the question bank by randomly selecting from available questions pertaining to their selected sub-topic.
 
 ### Taking a Quiz
 
-![taking a quiz](media/TakingQuizVideo.gif)
+![taking a quiz](media/taking_quiz.mp4)
 
 >From the Take Quiz view, a user can move through the questions in their quiz and select their answer from the presented options. If the timer expires, their quiz is over and any unanswered questions are marked as incorrect. Once completed, the user can navigate back through their questinos to review any errors they have made.
 
 ### Reviewing your Results
 
 <!-- <img src="https://github.com/Luc-Miron/Quizzinator9000/blob/main/media/ViewScoresVideo.gif" alt= "viewing results"> -->
-![view scores](https://github.com/Luc-Miron/Quizzinator9000/blob/main/media/ViewScoresVideo.gif)
+![view scores](media/view_scores.mp4)
 
 >From the Quiz History view, a user can review their history of average quiz scores by Subject, topic or sub-topic. They can also see all their quiz scores for a selected sub-topic.
 
