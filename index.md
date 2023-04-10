@@ -60,7 +60,7 @@ The Quizzinator9000 has three main areas of functionality:
 
 #### Reviewing your Results
 
-<img src="https://github.com/Luc-Miron/Quizzinator9000/blob/main/media/ViewScoresVideo.gif" alt= "viewing results" width="50%">
+<img src="https://github.com/Luc-Miron/Quizzinator9000/blob/main/media/ViewScoresVideo.gif" alt= "viewing results" width="50%" align="right>
 <!-- ![view scores](https://github.com/Luc-Miron/Quizzinator9000/blob/main/media/ViewScoresVideo.gif) -->
 
 >From the Quiz History view, a user can review their history of average quiz scores by Subject, topic or sub-topic. They can also see all their quiz scores for a selected sub-topic.
