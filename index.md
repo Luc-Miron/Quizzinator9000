@@ -69,14 +69,48 @@ The Quizzinator9000 has three main areas of functionality:
 
 ## Retrospective
 
-Insert retrospective commentary here
+### Project Postmortem
+
+#### How did the project change from your initial (iteration 0) vision or stories, or did it work out as predicted?
+
+There were three features we came up with during iteration 0 that we did not end up implementing:
+
+1. Different student accounts – Which we did not end up implementing because we did not think it was necessary for our project. All the data for our project is stored locally on the users’ device and the functionality of the app is the same for all users, so having different accounts didn’t seem like it would benefit users in any way. We also did not think we would have time to implement any features that would be able to make use of different student accounts within our three iterations, so we decided not to implement this feature.
+
+2. Create notes – We originally thought of adding the ability for users to write their own notes within the app. We decided not to implement this because we did not think it would fit very well with the rest of our app. We instead focused on improving and adding quiz related features, since the main focus of our app was to be a quiz app.
+
+3. Review Previous Quiz Answers – This is a feature we would still like to have implemented. However, we decided to leave it out because we did not think we would have the time to implement it within the 3 iterations of our project.
+
+We added a couple more features to replace some of the ones we removed. We added “Navigation Improvements” and “Customizable Quiz Options” since we thought they would be better additions to our project and fit better with our vision.
+
+### Retrospective Activity
+
+#### Deadlines
+
+We have not been as successful with getting all our features/user stories/issues done on time as we would have liked. In both iteration 1 and 2 there was at least one feature that we did not finish and had to push to a later iteration.
+
+To improve this, we will try to get each of our assigned tasks done well before the deadline so that even if we have problems with any of them, we will have lots of time to fix them. Since part of the reason we didn’t get everything completed in previous iterations was because we ran into problems right before the deadline. If we are able to get all our features/user stores/issues implemented before the deadline for this iteration, then we will consider that a success.
+
+#### The database
+
+A problem we encountered while making this project was the database implementation. It was so completely new to us that we decided to leave it for last. In hindsight, we should have definitely started with doing the higher priority developer tasks like making the database, because we did not have it finished by iteration 2. We all realized that something will go wrong when working with new tools. We had a lot of syntax issues in our database script and missing a dependency injection in our gradle build. If we did this earlier, we could have asked our instructor earlier to solve issue and hopefully finish by the iteration deadline. In the future, we would definitely be more interactive with the instructors with regards to questions and problems that arise during our project.
 
 ## Contributors/team members
 
 include a description of any specific special development skills that each team member gained
 
-* Troy Thomas
-* Luc Miron
-* Gabriel Zacci Coloma
-* Heping Dong
-* Rizaldi Wijaya
+### Troy Thomas
+
+> "Things I learned from this project: How to use Git, how to use Android Studio, how to make activities & layouts for android applications, how to structure a project well, and how to work better with a team and coordinate tasks."
+
+### Luc Miron
+
+> "I learned how to use the android studio development platform and the tools in GitLab. I improved my teamwork skills and was able to work with many different types of people."
+
+### Gabriel Zacci Coloma
+
+> "I learned that working in groups and making projects requires a ton of teamwork and picking each other up where we fall short on. It is important to implement the high priority tasks and features early in order to weed out the mistakes that would otherwise be too late when left for last. I definitely can say that I enjoy working in groups and I improved in working as a group after iteration 2."
+
+### Heping Dong
+
+### Rizaldi Wijaya
